@@ -47,7 +47,7 @@ class CountingSpriteKitLabel: SKLabelNode {
         none    = "",
         perCent = "%",
         kilo    = "kg",
-        pound   = "Ib"
+        pound   = "Lb"
     }
 
     var counterVelocity : Float         = 3.0
